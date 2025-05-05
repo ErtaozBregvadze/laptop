@@ -7,3 +7,4 @@ console.log(discount);
 const userDistance = 45;
 const shippingCost = userDistance <= 50 ? 10 : 15;
 console.log(shippingCost);  
+
